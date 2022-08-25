@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;Tesr&apos; to &apos;Test&apos;&#x0D;&#x0A;- Original project: &apos;Ls30_compareTo_For_All_Obj&apos;&#x0D;&#x0A;- Original element: &apos;Tesr&apos;&#x0D;&#x0A;- Renamed element: &apos;Test&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Tesr&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Tesr.java[Tesr" matchStrategy="1" name="Test" qualified="false" references="true" similarDeclarations="false" stamp="1660743635182" textual="false" version="1.0"/>
-</session>

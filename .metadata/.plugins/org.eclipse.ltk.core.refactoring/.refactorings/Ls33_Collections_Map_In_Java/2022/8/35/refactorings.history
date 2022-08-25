@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;TuDien_HashMap.java&apos; to &apos;TuDien_HashMap.java&apos;&#x0D;&#x0A;- Original project: &apos;Ls33_Collections_Map_In_Java&apos;&#x0D;&#x0A;- Destination element: &apos;TuDien_HashMap.java&apos;&#x0D;&#x0A;- Original element: &apos;TuDien_HashMap.java&apos;" description="Copy compilation unit" destination="/src&lt;{TuDien_HashMap.java" element1="/src&lt;{TuDien_HashMap.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1661418289195" units="1" version="1.0"/>
-</session>

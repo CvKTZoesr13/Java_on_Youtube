@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;Ls_26_Vehicle_Manager_abstractClass&apos; to &apos;Ls26_Vehicle_Manager_abstractClass&apos;" description="Rename resource &apos;Ls_26_Vehicle_Manager_abstractClass&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Ls_26_Vehicle_Manager_abstractClass" name="Ls26_Vehicle_Manager_abstractClass" stamp="1659925725588" updateReferences="true"/>
-</session>

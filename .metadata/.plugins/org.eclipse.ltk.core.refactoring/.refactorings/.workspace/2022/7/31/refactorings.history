@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename Java project &apos;Ls20_QuanLySachApp&apos; to &apos;Ls20_Books_Manager_App&apos;&#x0D;&#x0A;- Original element: &apos;Ls20_QuanLySachApp&apos;&#x0D;&#x0A;- Renamed element: &apos;Ls20_QuanLySachApp&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Ls20_QuanLySachApp&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Ls20_QuanLySachApp" name="Ls20_Books_Manager_App" references="true" stamp="1659109306479" version="1.0"/>
-</session>

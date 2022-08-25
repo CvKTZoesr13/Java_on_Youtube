@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename compilation unit &apos;Matrix.java&apos; to &apos;MatrixFromUser.java&apos;&#x0D;&#x0A;- Original project: &apos;Ls17_Java&apos;&#x0D;&#x0A;- Original element: &apos;Matrix.java&apos;&#x0D;&#x0A;- Renamed element: &apos;MatrixFromUser.java&apos;" description="Rename compilation unit &apos;Matrix.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{Matrix.java" name="MatrixFromUser.java" references="false" stamp="1657532304215" version="1.0"/>
-</session>
