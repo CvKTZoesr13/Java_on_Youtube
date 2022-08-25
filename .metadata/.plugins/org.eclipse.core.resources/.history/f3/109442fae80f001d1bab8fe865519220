@@ -1,0 +1,61 @@
+
+public class Students {
+	private int studentID;
+	private String fullName;
+	private Date birthday;
+	private float avgOfMark;
+	
+	private Class classOfSchool;
+
+	public Students(int studentID, String fullName, Date birthday, float avgOfMark, Class classOfSchool) {
+		
+		this.studentID = studentID;
+		this.fullName = fullName;
+		this.birthday = birthday;
+		this.avgOfMark = avgOfMark;
+		this.classOfSchool = classOfSchool;
+	}
+
+	public int getStudentID() {
+		return studentID;
+	}
+
+	public void setStudentID(int studentID) {
+		this.studentID = studentID;
+	}
+
+	public String getFullName() {
+		return fullName;
+	}
+
+	public void setFullName(String fullName) {
+		this.fullName = fullName;
+	}
+
+	public Date getBirthday() {
+		return birthday;
+	}
+
+	public void setBirthday(Date birthday) {
+		this.birthday = birthday;
+	}
+
+	public float getAvgOfMark() {
+		return avgOfMark;
+	}
+
+	public void setAvgOfMark(float avgOfMark) {
+		this.avgOfMark = avgOfMark;
+	}
+
+	public Class getClassOfSchool() {
+		return classOfSchool;
+	}
+
+	public void setClassOfSchool(Class classOfSchool) {
+		this.classOfSchool = classOfSchool;
+	}
+	
+	
+	
+}

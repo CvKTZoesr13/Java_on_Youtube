@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Ls_30_compareTo_For_All_Obj&apos; to &apos;Ls30_compareTo_For_All_Obj&apos;" description="Rename resource &apos;Ls_30_compareTo_For_All_Obj&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Ls_30_compareTo_For_All_Obj" name="Ls30_compareTo_For_All_Obj" stamp="1660743037459" updateReferences="true"/>
+</session>
